@@ -4,7 +4,7 @@
   <title><![CDATA[NetworkShadow]]></title>
   <link href="http://networkshadow.github.io/atom.xml" rel="self"/>
   <link href="http://networkshadow.github.io/"/>
-  <updated>2021-10-11T16:10:39-03:00</updated>
+  <updated>2021-10-13T09:59:32-03:00</updated>
   <id>http://networkshadow.github.io/</id>
   <author>
     <name><![CDATA[Logan MacKinnon (NetworkShadow)]]></name>
@@ -147,6 +147,43 @@ and model and the first hit gave me the default username and password for loggin
 been a malicious actor, this could have been bad for him.</p>
 
 <p>So yeah, just trust me on this.</p>
+
+<h2>EDIT:</h2>
+
+<p>I completely forgot about something and it&rsquo;s important. I&rsquo;m embarrassed to admit I forgot it, especially when I had
+previously been thinking about it while writing this. Here it is:</p>
+
+<h3>6. Update your devices!!!</h3>
+
+<p>Yeah, so this is a big one. When your laptop or phone says there&rsquo;s an update, it&rsquo;s a really good idea to <strong>NOT</strong>
+postpone these too long. I know they&rsquo;re an inconvenience, especially when it&rsquo;s a big update but a lot of times these
+things are super important. Sometimes they&rsquo;re just the addition of a couple of cool emojis or a new layout for your
+phone&rsquo;s homepage but more often than not they contain a security patch. Usually you can read what is being updated
+but if you don&rsquo;t care for it, then just trust me and update your shit to avoid being breached.</p>
+
+<p>And for those of you who think, &ldquo;I&rsquo;ve got nothing to hide so who cares?&rdquo; well I&rsquo;ve got news for you: we&rsquo;ve all got
+stuff to hide. If you&rsquo;ve bought anything online, there is likely a record of it somewhere on your computer. There
+could be credit card information on your devices or your social insurance number. Identity theft is on the rise these
+days so it&rsquo;s important that you protect yourself from these things.</p>
+
+<h3>7. Backups</h3>
+
+<p>The last thing I&rsquo;ll mention (and admittedly also forgot) is to backup your devices. You can back them up locally but
+that will serve you no good in the event your system crashes or you get hit by ransomeware.</p>
+
+<p>There&rsquo;s a simple rule for doing backups and it&rsquo;s called the &ldquo;3-2-1 Backup Rule&rdquo; which means you should have at least
+<strong>three</strong> copies of your backup with <strong>two</strong> copies stored on different devices or storage media (i.e. one on a cloud
+and the other on an external hard drive or solid state drive) and <strong>one</strong> copy stored in a remote location.</p>
+
+<p>Following this rule will effectively and efficiently allow you to restore your device(s) back to a functional state
+in the event your device crashes or if you get hit by ransomware, which also allows you to save a few bucks and
+actually guarantees that you&rsquo;ll get your files back unlike ransomware (just because you pay means squat).</p>
+
+<p>I should also mention that you should do this at least weekly, in my opinion so that if something <em>does</em> happen,
+you won&rsquo;t be stuck using a backup from a year ago. If that were to happen, you could be losing a year&rsquo;s worth of
+data, photos of your kids, or just plain important stuff.</p>
+
+<p>So start backing up your stuff too!</p>
 
 <h2>Final Thoughts</h2>
 
