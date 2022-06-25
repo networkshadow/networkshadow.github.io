@@ -28,6 +28,7 @@ body{
 
 .link-icon{
     color: aliceblue;
+    text-decoration: none;
 }
 .link-icon:hover{
     color: black;
